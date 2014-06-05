@@ -1,0 +1,10 @@
+#bar{
+	background-color:#CCC;
+	padding:5px;
+}
+.active{
+	background-color:#FFFFCC;
+}
+.tocVoice{
+	margin-right:10px;
+}
