@@ -2,7 +2,9 @@
 <html>
 <head>
 <script src="/js/jquery-1.11.0.min.js"></script>
+<script src="/js/jquery-ui-1.10.4.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/main.css">
+<link rel="stylesheet" type="text/css" href="/css/humanity/jquery-ui-1.10.4.min.css">
 <script src="/js/jqindex.js"></script>
 </head>
 <body>
